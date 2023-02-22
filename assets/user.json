@@ -11,9 +11,9 @@
     "imageUrlCitizenshipFront": null,
     "imageUrlCitizenshipBack": null,
     "picture": null,
-    "latitude": "27.672291174531626",
+    "latitude": "LatLng(27.672291174531626, 85.33482916653156)",
     "longitude": "85.337757",
-    "serviceProvided": null,
+    "serviceProvided": "Electrician",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -40,7 +40,7 @@
     "picture": null,
     "latitude": "27.694714",
     "longitude": "85.342435",
-    "serviceProvided": null,
+    "serviceProvided": "Plumber",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -67,7 +67,7 @@
     "picture": null,
     "latitude": "27.698885",
     "longitude": "85.352391",
-    "serviceProvided": null,
+    "serviceProvided":  "Masonry Works",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -94,7 +94,7 @@
     "picture": null,
     "latitude": "27.704261",
     "longitude": "85.342735",
-    "serviceProvided": null,
+    "serviceProvided": "Cleaning",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -121,7 +121,7 @@
     "picture": null,
     "latitude": "27.700746",
     "longitude": "85.350900",
-    "serviceProvided": null,
+    "serviceProvided": "Carpenter",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -148,7 +148,7 @@
     "picture": null,
     "latitude": "27.697368",
     "longitude": "85.342461",
-    "serviceProvided": null,
+    "serviceProvided": "Carpenter",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -175,7 +175,7 @@
     "picture": null,
     "latitude": "27.701954",
     "longitude": "85.347909",
-    "serviceProvided": null,
+    "serviceProvided": "Electrician",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -202,7 +202,7 @@
     "picture": null,
     "latitude": "27.704936",
     "longitude": "85.344349",
-    "serviceProvided": null,
+    "serviceProvided": "Electrician",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -229,7 +229,7 @@
     "picture": null,
     "latitude": "27.706969",
     "longitude": "85.341963",
-    "serviceProvided": null,
+    "serviceProvided": "Cleaning",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
@@ -256,7 +256,7 @@
     "picture": null,
     "latitude": "27.706026",
     "longitude": "85.344744",
-    "serviceProvided": null,
+    "serviceProvided": "Plumber",
     "serviceUsed": null,
     "workStatus": false,
     "roles": [
