@@ -11,7 +11,7 @@
     "imageUrlCitizenshipFront": null,
     "imageUrlCitizenshipBack": null,
     "picture": null,
-    "latitude": "27.705923",
+    "latitude": "LatLng(27.672291174531626, 85.33482916653156)",
     "longitude": "85.337757",
     "serviceProvided": null,
     "serviceUsed": null,
