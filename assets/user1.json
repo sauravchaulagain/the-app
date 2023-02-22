@@ -1,0 +1,273 @@
+[
+  {
+    "email": "12@gmail.com",
+    "password": "$2a$10$z6wWBYKmEpMBnPbbgE9BmeKV9Ig3KXF/hIOwiYX4v1esnDNgDBPOi",
+    "mobileNumber": "hero",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": null,
+    "issuedDate": null,
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.672291174531626, 85.33482916653156)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 623,
+    "firstName": "ram ",
+    "lastName": "hari"
+  },
+  {
+    "email": "8@gmail.com",
+    "password": "$2a$10$.yXf7vmDGC1XWLUBPguB5.XIAQMbz9Vw/A1EnXCX/niC5vn.MdxNy",
+    "mobileNumber": "888888888",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.694714,85.342435)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 640,
+    "firstName": "eight",
+    "lastName": "aath"
+  },
+  {
+    "email": "2@gmail.com",
+    "password": "$2a$10$UixgdhGHiCn1IuFdaH2EO.P2.eD6naCevoVZ46zLptJtGY0NDwUie",
+    "mobileNumber": "556687445",
+    "companyName": "abc company",
+    "role": true,
+    "citizenshipNum": "12345",
+    "issuedDate": null,
+    "fullname": "name full",
+    "imageUrlCitizenshipFront": "images url",
+    "imageUrlCitizenshipBack": "image",
+    "picture": null,
+    "latitude": "LatLng(27.698885,85.352391)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 642,
+    "firstName": "haha",
+    "lastName": "works"
+  },
+  {
+    "email": "9@gmail.com",
+    "password": "$2a$10$pigbtDN.aGufFK7Oaf4ZnOBtJuJZwjjA3dTg03y1jBCQRLBe1x2lO",
+    "mobileNumber": "9999999",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.704261,85.342735)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 641,
+    "firstName": "nine",
+    "lastName": "nau"
+  },
+  {
+    "email": "7@gmail.com",
+    "password": "$2a$10$iGGgEXzSuL4C0QQHF9NkGejrsWkhubm9u0i8XlF1CtMoGFstPVu8O",
+    "mobileNumber": "777777777",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.700746,85.350900)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 639,
+    "firstName": "seven",
+    "lastName": "saat"
+  },
+  {
+    "email": "6@gmail.com",
+    "password": "$2a$10$r9D/LSpm2dfJ1WRhyYfrNeidw9ezIMikhCWw/ZEm.s1xt/VsZ2lcG",
+    "mobileNumber": "666666666",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.697368,85.342461)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 638,
+    "firstName": "six",
+    "lastName": "cha"
+  },
+  {
+    "email": "5@gmail.com",
+    "password": "$2a$10$QPNGYTYbK.K36uWA94ZCiun2VRA05yhlbQ2t1xPGM/HE8ivn5aW7y",
+    "mobileNumber": "4477889",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.701954,85.347909)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 637,
+    "firstName": "five",
+    "lastName": "pach"
+  },
+  {
+    "email": "4@gmail.com",
+    "password": "$2a$10$YNnARUYqTdxKKGGjE7CIhOtYFcLkyFmfPG1gp.KDJ2.eTibCGuOTO",
+    "mobileNumber": "6998774",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.704936,85.344349)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 636,
+    "firstName": "four",
+    "lastName": "char"
+  },
+  {
+    "email": "3@gmail.com",
+    "password": "$2a$10$KsPkk2p6dBgKZFcLhQiXjOcT9BvcOYdB7DaosYcPI3zTLr77FzYMq",
+    "mobileNumber": "5566998",
+    "companyName": null,
+    "role": null,
+    "citizenshipNum": "null",
+    "issuedDate": "null",
+    "fullname": null,
+    "imageUrlCitizenshipFront": null,
+    "imageUrlCitizenshipBack": null,
+    "picture": null,
+    "latitude": "LatLng(27.706969,85.341963)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 635,
+    "firstName": "three",
+    "lastName": "theen"
+  },
+  {
+    "email": "2@gmail.com",
+    "password": "$2a$10$UixgdhGHiCn1IuFdaH2EO.P2.eD6naCevoVZ46zLptJtGY0NDwUie",
+    "mobileNumber": "556687445",
+    "companyName": "abc company",
+    "role": null,
+    "citizenshipNum": "12345",
+    "issuedDate": "null",
+    "fullname": "name full",
+    "imageUrlCitizenshipFront": "images url",
+    "imageUrlCitizenshipBack": "image",
+    "picture": null,
+    "latitude": "LatLng(27.706026,85.344744)",
+    "longitude": "",
+    "serviceProvided": null,
+    "serviceUsed": null,
+    "workStatus": false,
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_NORMAL"
+      }
+    ],
+    "id": 634,
+    "firstName": "haha",
+    "lastName": "works"
+  }
+
+]
