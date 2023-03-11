@@ -1,0 +1,954 @@
+[
+    {
+        "name":"BBQ",
+        "calories":45
+    },
+    {
+        "name":"Ketchup",
+        "calories":20
+    },
+    {
+	    "name":"Chipotle BBQ",
+	    "calories":45
+    },
+    {
+	    "name":"Honey Mustard",
+	    "calories":45
+    },
+    {
+        "name":"Sweet and Sour",
+        "calories":45
+    },
+    {
+        "name":"Sweet Sour",
+        "calories":45
+    },
+    {
+        "name":"Tangy BBQ",
+        "calories":45
+    },
+    {
+        "name":"Buffalo",
+        "calories":50
+    },     
+    {
+        "name":"Sweet Chili",
+        "calories":45
+    },
+    {
+        "name":"Hot Mustard",
+        "calories":45
+    },     
+    {
+        "name":"Ranch",
+        "calories":140
+    },
+    {
+        "name":"Sriracha",
+        "calories":45
+    },
+    {
+        "name":"Chick-fil-A",
+        "calories":140
+    },
+    {
+        "name":"Polynesian",
+        "calories":140
+    },
+    {
+        "name":"Rice",
+        "calories":272
+    },
+    {
+        "name":"Mixed Daal",
+        "calories":192
+    },
+    {
+        "name":"Momo",
+        "calories":280
+    },
+    {
+        "name":"Chowmein",
+        "calories":253
+    },
+    {
+        "name":"Fried chicken",
+        "calories":294
+    },
+    {
+        "name":"Chicken curry",
+        "calories":270
+    },
+    {
+        "name":"Mutton curry",
+        "calories":399.7
+    },
+    {
+        "name":"Fish curry",
+        "calories":215
+    },
+    {
+        "name":"Fish Fry",
+        "calories":240
+    },
+    {
+        "name":"Biscuit",
+        "calories":166
+    },
+    {
+        "name":"Cookie",
+        "calories":80
+    },
+    {
+        "name":"Cereal",
+        "calories":250
+    },
+    {
+        "name":"Roti",
+        "calories":71
+    },
+    {
+        "name":"Milk",
+        "calories":149
+    },
+    {
+        "name":"Coffee",
+        "calories":45
+    },
+    {
+        "name":"Milk Tea",
+        "calories":45
+    },
+    {
+        "name":"Black Tea",
+        "calories":5
+    },
+    {
+        "name":"Juice",
+        "calories":136
+    },
+    {
+        "name":"Omlette",
+        "calories":368
+    },
+    {
+        "name":"Boiled Eggs",
+        "calories":211
+    },
+    {
+        "name":"Apple",
+        "calories":52
+    },
+    {
+        "name":"Orange",
+        "calories":47
+    },
+    {
+        "name":"Cucumber",
+        "calories":16
+    },
+    {
+        "name":"Burger",
+        "calories":295
+    },
+    {
+        "name":"Banana",
+        "calories": 105
+    },
+    {
+        "name":"Pasta",
+        "calories": 131
+    },
+    {
+        "name":"Salmon",
+        "calories": 206
+    },
+    {
+        "name": "Adobo",
+        "calories": 300
+    },
+    {
+        "name": "Bak Kut Teh",
+        "calories": 325
+    },
+    {
+        "name": "Banh Mi",
+        "calories": 360
+    },
+    {
+        "name": "Biryani",
+        "calories": 400
+    },
+    {
+        "name": "Bulgogi",
+        "calories": 250
+    },
+    {
+        "name": "Chapati",
+        "calories": 140
+    },
+    {
+        "name": "Char Siu",
+        "calories": 300
+    },
+    {
+        "name": "Chicken Adobo",
+        "calories": 350
+    },
+    {
+        "name": "Chicken Satay",
+        "calories": 200
+    },
+    {
+        "name": "Curry Laksa",
+        "calories": 500
+    },
+    {
+        "name": "Dumplings",
+        "calories": 250
+    },
+    {
+        "name": "Egg Fried Rice",
+        "calories": 400
+    },
+    {
+        "name": "Gado-Gado",
+        "calories": 300
+    },
+    {
+        "name": "Gyoza",
+        "calories": 200
+    },
+    {
+        "name": "Hainanese Chicken Rice",
+        "calories": 600
+    },
+    {
+        "name": "Hot and Sour Soup",
+        "calories": 150
+    },
+    {
+        "name": "Katsu Curry",
+        "calories": 500
+    },
+    {
+        "name": "Laksa",
+        "calories": 450
+    },
+    {
+        "name": "Lumpia",
+        "calories": 200
+    },
+    {
+        "name": "Maki Sushi",
+        "calories": 250
+    },
+    {
+        "name": "Mapo Tofu",
+        "calories": 300
+    },
+    {
+        "name": "Mee Goreng",
+        "calories": 450
+    },
+    {
+        "name": "Miso Soup",
+        "calories": 60
+    },
+    {
+        "name": "Nasi Goreng",
+        "calories": 600
+    },
+    {
+        "name": "Pad See Ew",
+        "calories": 500
+    },
+    {
+        "name": "Pad Thai",
+        "calories": 600
+    },
+    {
+        "name": "Pho",
+        "calories": 350
+    },
+    {
+        "name": "Pork Adobo",
+        "calories": 400
+    },
+    {
+        "name": "Pork Ramen",
+        "calories": 450
+    },
+    {
+        "name": "Red Curry",
+        "calories": 350
+    },
+    {
+        "name": "Green Curry",
+        "calories": 350
+    },
+    {
+        "name": "Chicken Samosas",
+        "calories": 150
+    },
+    {
+        "name": "Aloo Mutter",
+        "calories": 200
+    },
+    {
+        "name": "Aloo Tikki Chaat",
+        "calories": 100
+    },
+    {
+        "name": "Baingan Bharta",
+        "calories": 150
+    },
+    {
+        "name": "Chana Masala",
+        "calories": 200
+    },
+    {
+        "name": "Chicken Biryani",
+        "calories": 550
+    },
+    {
+        "name": "Chicken Korma",
+        "calories": 450
+    },
+    {
+        "name": "Chole Bhature",
+        "calories": 600
+    },
+    {
+        "name": "Dhungri",
+        "calories": 200
+    },
+    {
+        "name": "Dosas",
+        "calories": 250
+    },
+    {
+        "name": "Gajar Ka Halwa",
+        "calories": 300
+    },
+    {
+        "name": "Kala Jamun",
+        "calories": 150
+    },
+    {
+        "name": "Hyderabadi Biryani",
+        "calories": 550
+    },
+    {
+        "name": "Sambar",
+        "calories": 50
+    },
+    {
+        "name": "Jalebi",
+        "calories": 250
+    },
+    {
+        "name": "Kadai Paneer",
+        "calories": 300
+    },
+    {
+        "name": "Kheer",
+        "calories": 200
+    },
+    {
+        "name": "Lassi",
+        "calories": 150
+    },
+    {
+        "name": "Malai Kofta",
+        "calories": 400
+    },
+    {
+        "name": "Mango Lassi",
+        "calories": 200
+    },
+    {
+        "name": "Masala Chiya",
+        "calories": 50
+    },
+    {
+        "name": "Matar Paneer",
+        "calories": 350
+    },
+    {
+        "name": "Naan",
+        "calories": 300
+    },
+    {
+        "name": "Pakoras",
+        "calories": 200
+    },
+    {
+        "name": "Papadum",
+        "calories": 50
+    },
+    {
+        "name": "Paratha",
+        "calories": 250
+    },
+    {
+        "name": "Raita",
+        "calories": 100
+    },
+    {
+        "name": "Rajma",
+        "calories": 250
+    },
+    {
+        "name": "Rasmalai",
+        "calories": 200
+    },
+    {
+        "name": "Aloo Tama",
+        "calories": 250
+    },
+    {
+        "name": "Baji",
+        "calories": 150
+    },
+    {
+        "name": "Baji Chura",
+        "calories": 200
+    },
+    {
+        "name": "Bhatmas Sandeko",
+        "calories": 200
+    },
+    {
+        "name": "Chana Sadeko",
+        "calories": 150
+    },
+    {
+        "name": "Chatamari",
+        "calories": 300
+    },
+    {
+        "name": "Chhwela",
+        "calories": 200
+    },
+    {
+        "name": "Chukauni",
+        "calories": 250
+    },
+    {
+        "name": "Dhindo",
+        "calories": 150
+    },
+    {
+        "name": "Chamal Ko Roti",
+        "calories": 200
+    },
+    {
+        "name": "Gundruk",
+        "calories": 50
+    },
+    {
+        "name": "Jaulo",
+        "calories": 200
+    },
+    {
+        "name": "Jeri",
+        "calories": 200
+    },
+    {
+        "name": "Kachila",
+        "calories": 150
+    },
+    {
+        "name": "Kodo Ko Roti",
+        "calories": 200
+    },
+    {
+        "name": "Kwati",
+        "calories": 200
+    },
+    {
+        "name": "Laptey",
+        "calories": 200
+    },
+    {
+        "name": "Nimki",
+        "calories": 150
+    },
+    {
+        "name": "Pakku",
+        "calories": 200
+    },
+    {
+        "name": "Farsi",
+        "calories": 250
+    },
+    {
+        "name": "Phapar Ko Roti",
+        "calories": 200
+    },
+    {
+        "name": "Mula Ko Tarkari",
+        "calories": 250
+    },
+    {
+        "name": "Puri",
+        "calories": 150
+    },
+      {
+        "name": "Saelroti",
+        "calories": 200
+    },
+    {
+        "name": "Sukuti",
+        "calories": 200
+    },
+    {
+        "saucenameame": "Swari",
+        "calories": 200
+    },
+    {
+        "name": "Syapta",
+        "calories": 300
+    },
+    {
+        "name": "Tama",
+        "calories": 150
+    },
+    {
+        "name": "Thukpa",
+        "calories": 350
+    },
+    {
+        "name": "Aloo Sadeko",
+        "calories": 250
+    },
+    {
+        "name": "Bhatmas Alu Sandeko",
+        "calories": 250
+    },
+    {
+        "name": "Aloo Chop",
+        "calories": 200
+    },
+    {
+        "name": "Aloo Tareko",
+        "calories": 250
+    },
+    {
+        "name": "Baji Momo",
+        "calories": 300
+    },
+    
+   { "name": "Dahi Chiura",
+    "calories": 200
+},
+{
+    "name": "Dumpling",
+    "calories": 250
+},
+{
+    "name": "Khuwa Barfi",
+    "calories": 250
+},
+{
+    "name": "Banana Lassi",
+    "calories": 250
+},
+{
+    "name": "Anarasa",
+    "calories": 200
+},
+{
+    "name": "Barfi",
+    "calories": 350
+},
+{
+    "name": "Besan Barfi",
+    "calories": 300
+},
+{
+    "name": "Boondi",
+    "calories": 250
+},
+{
+    "name": "Kaju katli",
+    "calories": 350
+},
+{
+    "name": "Chaku",
+    "calories": 200
+},
+{
+    "name": "Chamcham",
+    "calories": 250
+},
+{
+    "name": "Coconut Barfi",
+    "calories": 350
+},
+{
+    "name": "Gulab Jamun",
+    "calories": 250
+},
+{
+    "name": "Halwa",
+    "calories": 300
+},
+{
+    "name": "Imarti",
+    "calories": 200
+},
+{
+    "name": "Apple Pie",
+    "calories": 320
+},
+{
+    "name": "Banana Bread",
+    "calories": 240
+},
+{
+    "name": "Banana Cream Pie",
+    "calories": 420
+},
+{
+    "name": "Black Forest Cake",
+    "calories": 490
+},
+{
+    "name": "Blueberry Cheesecake",
+    "calories": 380
+},
+{
+    "name": "Brownies",
+    "calories": 280
+},
+{
+    "name": "Butter Pecan Ice Cream",
+    "calories": 270
+},
+{
+    "name": "Cannoli",
+    "calories": 340
+},
+{
+    "name": "Carrot Cake",
+    "calories": 400
+},
+{
+    "name": "Cheesecake",
+    "calories": 450
+},
+{
+    "name": "Cherry Pie",
+    "calories": 340
+},
+{
+    "name": "Chocolate Chip Cookies",
+    "calories": 210
+},
+{
+    "name": "Chocolate Mousse",
+    "calories": 320
+},
+{
+    "name": "Chocolate Truffles",
+    "calories": 190
+},
+{
+    "name": "Cinnamon Rolls",
+    "calories": 310
+},
+{
+    "name": "Coconut Cream Pie",
+    "calories": 420
+},
+{
+    "name": "Coffee Cake",
+    "calories": 320
+},
+{
+    "name": "Creme Brulee",
+    "calories": 450
+},
+{
+    "name": "Croissant",
+    "calories": 230
+},
+{
+    "name": "Cupcake",
+    "calories": 250
+},
+{
+    "name": "Eclair",
+    "calories": 350
+},
+{
+    "name": "Flan",
+    "calories": 290
+},
+{
+    "name": "Fruit Salad",
+    "calories": 170
+},
+{
+    "name": "Fudge",
+    "calories": 270
+},
+{
+    "name": "Gelato",
+    "calories": 250
+},
+{
+    "name": "German Chocolate Cake",
+    "calories": 500
+},
+{
+    "name": "Gingerbread Cookies",
+    "calories": 220
+},
+{
+    "name": "Honeycomb Ice Cream",
+    "calories": 310
+},
+{
+    "name": "Ice Cream Sandwich",
+    "calories": 290
+},
+{
+    "name": "Key Lime Pie",
+    "calories": 380
+},
+{
+    "name": "Lemon Bars",
+    "calories": 240
+},
+{
+    "name": "Macarons",
+    "calories": 130
+},
+{
+    "name": "Mango Sorbet",
+    "calories": 180
+},
+{
+    "name": "Mochi Ice Cream",
+    "calories": 110
+},
+{
+    "name": "Satay",
+    "calories": 180
+},
+{
+    "name": "Dhido",
+    "calories": 150
+},
+{
+    "name": "Char Kway Teow",
+    "calories": 450
+},
+{
+    "name": "Kimchi Fried Rice",
+    "calories": 380
+},
+{
+    "name": "Gua Bao",
+    "calories": 320
+},
+{
+    "name": "Takoyaki",
+    "calories": 150
+},
+{
+    "name": "Spring Rolls",
+    "calories": 200
+},
+{
+    "name": "Ramen",
+    "calories": 400
+},
+{
+    "name": "Samosas",
+    "calories": 260
+},
+{
+    "name": "Sushi",
+    "calories": 300
+},
+{
+    "name": "Jianbing",
+    "calories": 350
+},
+{
+    "name": "Korean Fried Chicken",
+    "calories": 450
+},
+{
+    "name": "Chicken Pho",
+    "calories": 350
+},
+{
+    "name": "Shawarma",
+    "calories": 450
+},
+{
+    "name": "Taiwanese Fried Chicken",
+    "calories": 420
+},
+{
+    "name": "Gimbap",
+    "calories": 250
+},
+{
+    "name": "Peking Duck",
+    "calories": 380
+},
+{
+    "name": "Baozi",
+    "calories": 200
+},
+{
+    "name": "Samosa Chaat",
+    "calories": 300
+},
+{
+    "name": "Mala Xiang Guo",
+    "calories": 500
+},
+{
+    "name": "Rendang",
+    "calories": 450
+},
+{
+    "name": "Sate Taichan",
+    "calories": 200
+},
+{
+    "name": "Thai Green Curry",
+    "calories": 400
+},
+{
+    "name": "Yakitori",
+    "calories": 250
+},
+{
+    "name": "Zongzi",
+    "calories": 350
+},
+{
+    "name": "Butter Chicken",
+    "calories": 500
+},
+{
+    "name": "Chicken Tikka Masala",
+    "calories": 450
+},
+{
+    "name": "Saag Paneer",
+    "calories": 350
+},
+{
+    "name": "Chana aloo",
+    "calories": 250
+},
+{
+    "name": "Dal Makhani",
+    "calories": 300
+},
+{
+    "name": "Tandoori Chicken",
+    "calories": 300
+},
+{
+    "name": "Aloo Gobi",
+    "calories": 200
+},
+{
+    "name": "Palak Paneer",
+    "calories": 300
+},
+{
+    "name": "Butter Naan",
+    "calories": 200
+},
+{
+    "name": "Kachaudi",
+    "calories": 100
+},
+{
+    "name": "Paneer Pakauda",
+    "calories": 200
+},
+{
+    "name": "Rogan Josh",
+    "calories": 400
+},
+{
+    "name": "Chaat",
+    "calories": 150
+},
+{
+    "name": "Bhindi Masala",
+    "calories": 200
+},
+{
+    "name": "Aloo Tikki",
+    "calories": 150
+},
+{
+    "name": "Chicken Kadhai",
+    "calories": 500
+},
+{
+    "name": "Paneer Tikka",
+    "calories": 250
+},
+{
+    "name": "Mutton biryani",
+    "calories": 500
+},
+{
+    "name": "Papad",
+    "calories": 50
+},
+{
+    "name": "Masala Dosa",
+    "calories": 350
+},
+{
+    "name": "Idli",
+    "calories": 50
+},
+{
+    "name": "Vada",
+    "calories": 150
+},
+{
+    "name": "Baingan Raita",
+    "calories": 100
+},
+{
+    "name": "Kalakand",
+    "calories": 150
+},
+{
+    "name": "Lamb Vindaloo",
+    "calories": 500
+},
+{
+    "name": "Prawn Curry",
+    "calories": 350
+},
+{
+    "name": "Bhature",
+    "calories": 350
+},
+{
+    "name": "Dhokla",
+    "calories": 200
+},
+{
+    "name": "Tandoori Roti",
+    "calories": 150
+}
+]
