@@ -1,4 +1,11 @@
-[
+[ {
+        "name":"Momo",
+        "calories":230
+    },
+  {
+        "name":"Rice Bowl",
+        "calories":130
+    },
     {
         "name":"BBQ",
         "calories":45
